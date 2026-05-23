@@ -1,14 +1,18 @@
 {
-  "bot_name": "Parallax Storage Bot",
-  "version": 2.5,
-  "is_active": true,
-  "maintenance_mode": false,
-  "admin_username": "@ParallaxOp",
-  "max_storage_gb": 15,
-  "welcome_message": "Hello! Welcome to the bot.",
-  "supported_files": ["zip", "lib", "json"],
-  "server_config": {
-    "region": "asia-south",
-    "timeout": 300
-  }
+    "bot_name": "parallax op",
+    "version": 2.5,
+    "is_active": true,
+    "maintenance_mode": false,
+    "admin_username": "@ParallaxOp",
+    "max_storage_gb": 15,
+    "welcome_message": "Hello! Welcome to the bot.",
+    "supported_files": [
+        "zip",
+        "lib",
+        "json"
+    ],
+    "server_config": {
+        "region": "asia-south",
+        "timeout": 300
+    }
 }
