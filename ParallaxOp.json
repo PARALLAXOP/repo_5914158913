@@ -3,7 +3,7 @@
     "url": "https://parallaxserver.online/filemanager/raw.php?file=libOWNERHUBEE.so",
     "contact": "https://t.me/ParallaxOwner",
     "message": "Server maintenance",
-    "welcomeOnOff": "true",
+    "welcomeOnOff": true,
     "welcome": "Kya haal hai bhai log",
     "Buy": "https://t.me/ParallaxOwner"
 }
