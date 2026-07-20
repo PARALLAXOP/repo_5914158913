@@ -1,9 +1,9 @@
 {
-    "status": false,
-    "url": "https://parallaxserver.online/filemanager/raw.php?file=libOWNERHUBEE.so",
+    "status": true,
+    "url": "https://raw.githubusercontent.com/PARALLAXOP/repo_5914158913/main/libBypass.so",
     "contact": "https://t.me/ParallaxOwner",
     "message": "Server maintenance",
-    "welcomeOnOff": true,
+    "welcomeOnOff": false,
     "welcome": "Kya haal hai bhai log",
     "Buy": "https://t.me/ParallaxOwner"
 }
