@@ -1,10 +1,10 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Api Banned. Contact Developer!",
-    "opentime":"",
-    "libs":"https://raw.githubusercontent.com/PARALLAXOP/repo_5914158913/main/Spoof%20%284%29.zip",
-    "notice_title":"AnoSDKIoctlOld Hooked Successfully!!",
-    "notice_body":""
+    "serverstatus": false,
+    "noticemode": "true",
+    "dataclearmode": "false",
+    "servermeassage": "Api Banned. Contact Developer!",
+    "opentime": "",
+    "libs": "https://raw.githubusercontent.com/PARALLAXOP/repo_5914158913/main/Spoof%20%284%29.zip",
+    "notice_title": "AnoSDKIoctlOld Hooked Successfully!!",
+    "notice_body": ""
 }
