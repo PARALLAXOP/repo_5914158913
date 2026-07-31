@@ -1,10 +1,10 @@
 {
-    "serverstatus": true,
+    "serverstatus": false,
     "noticemode": true,
     "dataclearmode": true,
-    "servermeassage":"Kill sing Closed by @ParallaxOwner",
-    "opentime":"     Kill sing Closed by @ParallaxOwner",
-    "libs":"https://raw.githubusercontent.com/PARALLAXOP/repo_5914158913/main/PaidKillSing.zip",
-    "notice_title":"",
-    "notice_body":"Welcome to Premium Server"
-            }
+    "servermeassage": "Thoda Wait karo Bypass Pe kaam Chal raha hai",
+    "opentime": "     Kill sing Closed by @ParallaxOwner",
+    "libs": "https://raw.githubusercontent.com/PARALLAXOP/repo_5914158913/main/PaidKillSing.zip",
+    "notice_title": "",
+    "notice_body": "Welcome to Premium Server"
+}
